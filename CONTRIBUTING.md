@@ -1,0 +1,1 @@
+"Zasady wsp¢ˆtworzenia..." 
