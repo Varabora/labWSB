@@ -1,5 +1,4 @@
+# Mój Projekt
 
-"# Moj Projelt" 
-blablabla
-
+Prosty projekt pokazowy.
 
