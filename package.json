@@ -1,0 +1,26 @@
+{
+  "name": "moj-projekt",
+  "version": "1.0.0",
+  "description": "Projekt służy do zarządzania zadaniami w prosty i efektywny sposób.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+"scripts": {
+  "test": "jest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varabora/moj-projekt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varabora/moj-projekt/issues"
+  },
+  "homepage": "https://github.com/Varabora/moj-projekt#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
