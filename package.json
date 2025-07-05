@@ -6,10 +6,10 @@
   "directories": {
     "test": "tests"
   },
-"scripts": {
-  "test": "npx jest",
-  "build": "echo \"Budowanie projektu...\""
-},
+  "scripts": {
+    "test": "npx jest",
+    "build": "echo \"Budowanie projektu...\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Varabora/moj-projekt.git"
@@ -21,7 +21,7 @@
     "url": "https://github.com/Varabora/moj-projekt/issues"
   },
   "homepage": "https://github.com/Varabora/moj-projekt#readme",
-  "devDependencies": {
+  "dependencies": {
     "jest": "^30.0.4"
   }
 }
